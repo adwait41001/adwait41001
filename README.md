@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adwait41001
 - 👀 I’m interested in AI,ML,Android App Development, Discord Bots,  
 - 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on OpenCV
+- 💞️ I’m looking to collaborate on Financial Engineering
 - 📫 Reach me at patiladwaitn19.extc@coep.ac.in
 
 <!---
